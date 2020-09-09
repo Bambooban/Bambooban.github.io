@@ -1,0 +1,228 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.ban-box {
+  width: 100%;
+}
+.ban-box .head-content {
+  width: 100%;
+  height: 400px;
+  /* margin: 0 auto; */
+  /* background: rgb(26, 73, 80); */
+  background: url('../images/head1.png') 100% 20% no-repeat;
+  background-size: 100%;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.ban-box .head-content .h-box {
+  width: 100%;
+  height: 150px;
+  background: rgba(0, 0, 0, 0.4);
+  position: absolute;
+  top: 120px;
+  left: 0;
+}
+.ban-box .head-content .titles {
+  margin-top: 40px;
+  text-align: center;
+  color: #fff;
+}
+.ban-box .head-content .titles span {
+  color: #fff;
+  margin-right: 5px;
+}
+.ban-box .head-content .titles span:hover {
+  cursor: pointer;
+  color: #061fda;
+  transition: all 1s;
+}
+.ban-box .head-content .emails {
+  margin-top: 10px;
+  text-align: center;
+  color: #fff;
+}
+.ban-box .main-content {
+  width: 1200px;
+  margin: 0 auto 50px;
+}
+.ban-box .main-content .cont-title {
+  width: 90%;
+  height: 60px;
+  margin: 20px auto;
+  border-radius: 20px;
+  box-shadow: 0 0 2px 2px #ddd;
+}
+.ban-box .main-content .cont-title .title {
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 60px;
+  padding-left: 30px;
+  color: #181c57;
+}
+.ban-box .main-content .cont-one {
+  width: 90%;
+  height: 350px;
+  margin: 20px auto;
+}
+.ban-box .main-content .cont-one .one-item {
+  width: 30%;
+  height: 300px;
+  border-radius: 30px;
+  float: left;
+  margin-left: 26px;
+}
+.ban-box .main-content .cont-one .one-item:hover {
+  transform: scale(1.1);
+  transition: all 1s;
+}
+.ban-box .main-content .cont-one .one-item .t-title {
+  width: 100%;
+  height: 60px;
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 120px;
+}
+.ban-box .main-content .cont-one .one-item .t-title h2 {
+  color: #fff;
+  text-align: center;
+  line-height: 60px;
+}
+.ban-box .main-content .cont-one .one-item .t-title h2 a {
+  text-decoration: none;
+  color: #fff;
+}
+.ban-box .main-content .cont-one .one-item .t-title h2 a:hover {
+  cursor: pointer;
+  color: #061fda;
+  transition: all 1s;
+}
+.ban-box .main-content .cont-one .one-bg1 {
+  background: url('../images/tu1.jpg') 100% no-repeat;
+}
+.ban-box .main-content .cont-one .one-bg2 {
+  background: url('../images/tu1.jpg') 100% no-repeat;
+}
+.ban-box .main-content .cont-one .one-bg3 {
+  background: url('../images/tu1.jpg') 100% no-repeat;
+}
+.ban-box .main-content .cont-two {
+  width: 90%;
+  height: 350px;
+  margin: 20px auto;
+}
+.ban-box .main-content .cont-two .two-item {
+  width: 30%;
+  height: 300px;
+  background: url('../images/tu1.jpg') 100% no-repeat;
+  border-radius: 30px;
+  float: left;
+  margin-left: 26px;
+}
+.ban-box .main-content .cont-two .two-item .t-cont {
+  width: 110px;
+  margin-top: 60px;
+  margin-left: 115px;
+}
+.ban-box .main-content .cont-two .two-item .t-cont .imgs {
+  width: 100%;
+}
+.ban-box .main-content .cont-two .two-item .t-cont .imgs:hover {
+  transform: rotate(720deg);
+  transition: all 2s;
+}
+.ban-box .main-content .cont-two .two-item .t-title {
+  width: 100%;
+  height: 60px;
+  background: rgba(0, 0, 0, 0.5);
+  margin-top: 20px;
+}
+.ban-box .main-content .cont-two .two-item .t-title h3 {
+  color: #fff;
+  text-align: center;
+  padding-top: 5px;
+}
+.ban-box .main-content .cont-two .two-item .t-title h3:hover {
+  cursor: pointer;
+  color: #061fda;
+  transition: all 1s;
+}
+.ban-box .main-content .cont-two .two-item .t-title p {
+  color: #fff;
+  text-align: center;
+  margin-top: 3px;
+  font-size: 12px;
+}
+.ban-box .main-content .cont-three {
+  width: 90%;
+  height: 600px;
+  margin: 20px auto;
+  /* background: rgb(122, 168, 228); */
+}
+.ban-box .main-content .cont-three .three-item {
+  width: 30%;
+  height: 500px;
+  background: #21426d;
+  float: left;
+  margin-left: 26px;
+  margin-top: 10px;
+}
+.ban-box .main-content .cont-three .three-item .img-box {
+  width: 100%;
+  height: 420px;
+  overflow: hidden;
+}
+.ban-box .main-content .cont-three .three-item .img-box .img {
+  width: 100%;
+  height: 100%;
+}
+.ban-box .main-content .cont-three .three-item .img-box .img:hover {
+  transform: scale(1.1);
+  transition: all 0.8s;
+}
+.ban-box .main-content .cont-three .three-item .btn-box {
+  width: 100%;
+  height: 80px;
+  background: #c2bfbf;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+.ban-box .main-content .cont-three .three-item .btn-box .btn {
+  width: 80%;
+  height: 50px;
+  /* background: rgb(33, 66, 109); */
+  background: url('../images/tu3.jpg') 18% 16% no-repeat;
+  background-size: 109%;
+  position: absolute;
+  top: 15px;
+  left: 10%;
+  border-radius: 50px;
+  box-shadow: 0 1px 1px 2px #aaa;
+}
+.ban-box .main-content .cont-three .three-item .btn-box .btn:hover {
+  cursor: pointer;
+}
+.ban-box .main-content .cont-three .three-item .btn-box .btn h3 {
+  color: #fff;
+  text-align: center;
+  line-height: 50px;
+}
+.ban-box .main-content .cont-three .three-item .btn-box .btn h3 a {
+  text-decoration: none;
+  color: #fff;
+}
+.ban-box .main-content .cont-three .three-item .btn-box .btn h3 a:hover {
+  cursor: pointer;
+  color: #061fda;
+  transition: all 1s;
+}
+.ban-box .main-content .ending {
+  width: 100%;
+  height: 50px;
+  margin-top: 20px;
+}
+.ban-box .main-content .ending h4 {
+  text-align: center;
+  color: #9f9fa1;
+}

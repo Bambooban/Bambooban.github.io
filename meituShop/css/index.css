@@ -1,0 +1,301 @@
+.con{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+.navbb{
+    background-color: black;
+}
+.navbar{
+    width: 80%;
+    margin: 0 auto;
+    height: 44px;
+    background-color: black;
+}
+.navbb a:hover{
+    opacity: 0.7;
+    transition-duration: 1s;
+}
+.navbar-brand{
+    border: none;
+    outline: none;
+}
+.logos{
+    width: 130px;
+
+}
+#navbarNav .navbar-nav{
+    margin: 0 auto;
+    width: 100%;
+    
+}
+#navbarNav .navbar-nav .nav-item{
+    width: 16.6%;
+    margin: 0 auto;
+  
+}
+#navbarNav .navbar-nav .nav-item .nav-link {
+    color: white;
+    text-align: center;
+   
+}
+
+.use-address .fa{
+    color: white;
+}
+
+.carousel{
+    position: relative;
+}
+.carousel-indicators li{
+    width: 50px;
+}
+.carousel-inner .carousel-item{
+    height: 600px;
+}
+.carousel-inner .carousel-item .lunbo{
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/5cef9949b424576691.jpg');
+    background-repeat: no-repeat;
+    background-position-x: -200px;
+  
+} 
+.T9{
+    width: 400px;
+    
+    position: absolute;
+    top:190px;
+    left: 775px;
+}
+.mtt9{
+    font-size: 70px;
+    font-weight: 600;
+    color: #000;
+    letter-spacing:5px
+}
+.my{
+    display: block;
+    font-size: 35px;
+    font-weight: 500;
+    color: #000;
+    letter-spacing:15px;
+    margin-bottom:40px
+}
+
+.sons a{
+    font-size: 20px;
+    font-weight: 300;
+    color: #e91e63; 
+    cursor: pointer;
+   
+    
+   
+}
+.sons a:hover{
+    font-weight: 500;
+    color: #e91e63; 
+    
+}
+
+
+.chinas{
+    width: 100%;
+    margin: 0;
+    padding: 4px 0;
+}
+
+.chinas .ch-tu{
+    padding: 0 2px;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+.chinas .ch-tu img:hover{
+    transform: scale(1.1);
+    transition-duration: 1s;
+
+    
+
+   
+}
+
+
+.all-foots{
+    width: 100%;
+    background-color: rgba(244, 250, 247, 0.986);
+}
+
+.tups{
+    width: 100%;
+    position: absolute;
+    top: 10px;
+    left: 0;
+  
+}
+
+.zi-color{
+    color: #fbe7b2;
+}
+.tu-title1{
+  
+    font-size: 14px;
+    text-align: center;
+    line-height: 1;
+  
+}
+.tu-title2{
+    
+    font-size: 20px;
+    text-align: center;
+    line-height: 1;
+    margin-top: 10px;
+}
+
+
+
+
+.foots{
+    /* width: 1250px; */
+    /* height: 400px; */
+   
+    margin: 0 150px;
+}
+
+.lefts{
+
+    padding: 30px 0 10px 0;
+}
+.card{
+    width: 20%;
+    float: left;
+    background-color: rgba(244, 250, 247, 0.986);
+    border: none;
+
+}
+.card-title{
+    margin: 0 0 12px 0;
+    font-size: 12px;
+    color: #333333;
+}
+.c-ul{
+    margin: 0;
+    padding: 0;
+}
+.c-item{
+    list-style: none;
+    text-align: left;
+    margin: 0 0 12px;
+    font-size: 12px;
+}
+.c-item a{
+    color: #555555;
+    cursor: pointer;
+    
+}
+.c-item a:hover{
+    color: rgb(226, 79, 170);
+}
+
+.rights{
+    
+    padding: 30px 0 10px 0;
+}
+
+
+.ttp {
+    font-size: 12px;
+    color: #333333;
+}
+.line-kefu a{
+    color: #333333;
+}
+.line-kefu a:hover{
+    color: rgb(226, 79, 170);
+}
+.time-work label{
+    
+    margin: 0 0 0 0;
+    
+}
+.phonos{
+    font-size: 26px;
+    font-weight: 300;
+    color: #333333;
+    margin: 22px 0;
+}
+
+.banquan{
+    width: 100%;
+    border-top:1px solid rgb(218, 215, 215);
+    margin: 15px 0;
+    padding: 30px 0 5px;
+}
+.aa{
+   text-align: center;
+   position: relative;
+}
+
+.banquan a:hover{
+    color: rgb(226, 79, 170);
+}
+
+.copyrights{
+    font-size: 14px;
+    float: left;
+}
+.copyrights::after{
+    content: "";
+    display: inline-block;
+    height: 12px;
+    width: 47px;
+    background-image: url(https://img.app.meitudata.com//meitumall/v2/images/dff63979.sprites-index@2x.png);
+    background-repeat: no-repeat;
+    background-position: -42px -240px;
+    background-size: 400px auto;
+
+}
+.list-cont{
+    float: left;
+
+}
+.list-cont a{
+  
+    margin: 0 20px 5px 20px;
+    font-size: 12px;
+    color: #333333;
+    
+}
+
+.zg a{
+   
+    float: right;
+    font-size: 12px;
+    color: #999999;
+    
+}
+.zg a img{
+    width: 30px;
+}
+
+.bb{
+    float: left;
+    margin-top: 60px;
+    
+ }
+
+.bb a,span{
+    font-size: 12px;
+    color: #999999;
+    display: inline-block;
+}
+
+.renzheng img{
+    width: 50px;
+}
+.wen img{
+
+    width: 25px;
+    height: 25px;
+}  

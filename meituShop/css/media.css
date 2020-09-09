@@ -1,0 +1,152 @@
+@media screen and (min-width: 992px) {
+  /* pc */
+  .bb{
+
+    margin-left: -92px;
+ }
+  
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+ /* 平板 */
+ .logos{
+  margin-top: -15px;
+ 
+
+}
+.use-address{
+  margin-top: -13px;
+}
+.ch-tu{
+  margin-bottom: 5px;
+}
+.T9{
+  width: 620px;
+    
+  position: absolute;
+  top:55px;
+  left: 305px;
+}
+.sons a{
+  font-size: 33.6px;
+  margin-left: -175px;
+}
+.foots{
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  
+}
+
+.phonos{
+  font-size: 12px;
+  margin: 0;
+}
+.ttp {
+  margin-top: 10px;
+}
+
+ .c-ul{
+   display: none;
+ }
+}
+.list-cont{
+  text-align: left;
+  position: absolute;
+  top: 28px;
+  left: -18px;
+
+}
+.zg{
+  position: absolute;
+  top: -2px;
+  right:0 ;
+}
+.min{
+  display: block;
+}
+
+.bb{
+
+  margin-left: -92px;
+}
+@media screen and (max-width: 767px) {
+  /* 手机 */
+  .logos{
+    margin-top: -15px;
+    margin-left: 175px;
+  
+  }
+  .use-address{
+    margin-top: -13px;
+  }
+  .ch-tu{
+    margin-bottom: 3px;
+  }
+
+  .T9{
+    width: 620px;
+      
+    position: absolute;
+    top:55px;
+    left: 200px;
+  }
+ 
+  .sons a{
+    font-size: 25px;
+    margin-left: -80px;
+    
+  }
+
+
+  .mtt9{
+    font-size: 45px;
+    
+}
+.my{
+    
+    font-size: 23px;
+    margin-bottom:20px
+}
+
+.foots{
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  
+}
+.phonos{
+  font-size: 12px;
+  margin: 0;
+}
+.ttp {
+  margin-top: 10px;
+}
+
+  .c-ul{
+    display: none;
+  }
+
+  .list-cont{
+    margin: 0 10px 5px;
+    text-align: left;
+    position: absolute;
+    top: 28px;
+    left: -18px;
+  
+  }
+  .zg{
+    position: absolute;
+    top: -2px;
+    right:0 ;
+  }
+  .bb{
+
+    margin-left: 9px;
+  }
+  .min{
+    display: block;
+  }
+
+  
+}
